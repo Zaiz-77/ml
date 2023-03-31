@@ -1,2 +1,2 @@
-# ml
-Code for ML (Machine Learning) Practices
+# Codes for machine learning practice
+## If you have any questions, please contact zaizwk@gmail.com
